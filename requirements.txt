@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community # For FAISS and other community components
+faiss-cpu
+pypdf
+python-dotenv
+sentence-transformers
+tiktoken
